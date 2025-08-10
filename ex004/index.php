@@ -8,6 +8,10 @@
 <body>
     <h1>Tipos primitivos do PHP</h1>
     <?php 
+            echo "Apenas testes e testes para aprendizado!";
+
+        // ESCALARES
+
         // $num = 300;
         // echo  "O valor da variável é $num";
 
@@ -28,7 +32,19 @@
         //var_dump($casado);
         // echo "O valor para casado é $casado";
 
-        echo "Apenas testes e testes para aprendizado!";
+        // COMPOSTOS
+
+        // Exemplo de Array
+        //$vet = [6, 2, 9, 3, 5];
+        //var_dump($vet);
+
+        // Exemplo de Object (Objeto)
+        // class Pessoa {
+        //     private string $nome;
+        // }
+
+        // $p = new Pessoa;
+        // var_dump($p);
     ?>
 </body>
 </html>
