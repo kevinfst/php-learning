@@ -7,7 +7,9 @@ Este repositório contém meus exercícios e práticas de estudo em **PHP** e **
 ## 📂 Estrutura
 
 - [curso-em-video](./curso-em-video) → Exercícios e práticas do curso de PHP do **Curso em Vídeo**.  
-- [node-studio-treinamentos](./node-studio-treinamentos) → Projetos e práticas com **Laravel**, baseados nos conteúdos da **Node Studio Treinamentos**.  
+- [node-studio-treinamentos](./node-studio-treinamentos) → Este diretório é dedicado às práticas com **Laravel** realizadas durante o curso da **Node Studio Treinamentos**.
+
+
 
 ---
 
